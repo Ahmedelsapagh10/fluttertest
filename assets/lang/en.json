@@ -1,0 +1,18 @@
+{
+    "hi": "Hi",
+    "success_login": "Login successful",
+    "login": "Login",
+    "error_login": "Login error",
+    "welcome": "Welcome back to",
+    "app_name": "Flutttr Test",
+    "email": "Email",
+    "password": "Password",
+    "enter_email": "Enter Your email",
+    "enter_password": "Enter Your Password",
+    "add_to_basket": "Add to basket",
+    "Language": "Change Language",
+    "logout": "Logout",
+    "are_you_sure_to_logout": "Are you sure you want to log out?",
+    "ok": "OK",
+    "cancel": "Cancel"
+}
